@@ -1,12 +1,21 @@
 package rzk.redstoneutils.generators;
 
 import net.minecraft.data.DataGenerator;
-import net.minecraftforge.common.data.ForgeRecipeProvider;
+import net.minecraft.data.IFinishedRecipe;
+import net.minecraft.data.RecipeProvider;
 
-public class Recipes extends ForgeRecipeProvider
+import java.util.function.Consumer;
+
+public class Recipes extends RecipeProvider
 {
     public Recipes(DataGenerator generator)
     {
         super(generator);
+    }
+
+    @Override
+    protected void buildShapelessRecipes(Consumer<IFinishedRecipe> consumer)
+    {
+
     }
 }

@@ -16,7 +16,7 @@ public class DataGenerators
         DataGenerator generator = event.getGenerator();
         ExistingFileHelper existingFileHelper = event.getExistingFileHelper();
 
-        generator.addProvider(new BlockModels(generator, RedstoneUtils.MOD_ID, existingFileHelper));
+        generator.addProvider(new BlockStates(generator, RedstoneUtils.MOD_ID, existingFileHelper));
         generator.addProvider(new ItemModels(generator, RedstoneUtils.MOD_ID, existingFileHelper));
         generator.addProvider(new Recipes(generator));
         generator.addProvider(new LootTables(generator));

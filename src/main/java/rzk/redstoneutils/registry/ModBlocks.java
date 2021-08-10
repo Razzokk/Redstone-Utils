@@ -6,6 +6,7 @@ import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.registries.IForgeRegistry;
 import rzk.redstoneutils.RedstoneUtils;
+import rzk.redstoneutils.block.BlockAnalogLamp;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,18 +16,21 @@ public final class ModBlocks
 {
     private static final List<Block> BLOCKS = new ArrayList<>();
 
+    public static Block analogLamp;
+    public static Block analogLampInverted;
+
     private ModBlocks() {}
 
     private static void initBlocks()
     {
-
+        analogLamp = registerBlock("analog_lamp", new BlockAnalogLamp(false));
+        analogLampInverted = registerBlock("analog_lamp_inverted", new BlockAnalogLamp(true));
     }
 
     private static Block registerBlockNoItem(String name, Block block)
     {
         block.setRegistryName(RedstoneUtils.MOD_ID, name);
         BLOCKS.add(block);
-
         return block;
     }
 
