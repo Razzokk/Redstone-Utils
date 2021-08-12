@@ -5,7 +5,7 @@ import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.registries.IForgeRegistry;
 import rzk.redstoneutils.RedstoneUtils;
-import rzk.redstoneutils.block.ItemBlockRotator;
+import rzk.redstoneutils.item.ItemBlockRotator;
 
 import java.util.ArrayList;
 import java.util.List;

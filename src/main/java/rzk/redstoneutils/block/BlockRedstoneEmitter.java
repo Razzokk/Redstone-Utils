@@ -19,7 +19,6 @@ import net.minecraftforge.common.util.Constants;
 import rzk.redstoneutils.misc.RUConstants;
 
 import javax.annotation.Nullable;
-
 import java.util.Random;
 
 import static net.minecraft.state.properties.BlockStateProperties.FACING;

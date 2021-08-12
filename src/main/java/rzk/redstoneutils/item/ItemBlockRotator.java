@@ -1,4 +1,4 @@
-package rzk.redstoneutils.block;
+package rzk.redstoneutils.item;
 
 import net.minecraft.block.BlockState;
 import net.minecraft.client.util.ITooltipFlag;
@@ -102,7 +102,5 @@ public class ItemBlockRotator extends Item
         boolean axisMode = stack.getOrCreateTag().getBoolean("axis_mode");
         ITextComponent mode = new TranslationTextComponent("tooltip.mode." + (axisMode ? "axis" : "face")).withStyle(TextFormatting.YELLOW);
         list.add(new TranslationTextComponent("tooltip.mode", mode).withStyle(TextFormatting.GRAY));
-
-
     }
 }
