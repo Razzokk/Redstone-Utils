@@ -1,0 +1,784 @@
+{
+  "variants": {
+    "emit_power=1,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=2,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=3,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=4,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=5,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=6,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=7,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=8,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=9,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=10,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=11,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=12,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=13,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=14,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=15,facing=down,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 180
+    },
+    "emit_power=1,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=2,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=3,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=4,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=5,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=6,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=7,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=8,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=9,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=10,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=11,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=12,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=13,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=14,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=15,facing=up,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off"
+    },
+    "emit_power=1,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=2,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=3,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=4,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=5,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=6,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=7,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=8,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=9,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=10,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=11,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=12,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=13,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=14,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=15,facing=north,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90
+    },
+    "emit_power=1,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=2,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=3,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=4,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=5,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=6,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=7,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=8,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=9,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=10,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=11,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=12,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=13,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=14,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=15,facing=south,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=1,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=2,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=3,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=4,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=5,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=6,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=7,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=8,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=9,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=10,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=11,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=12,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=13,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=14,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=15,facing=west,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=1,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=2,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=3,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=4,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=5,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=6,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=7,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=8,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=9,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=10,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=11,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=12,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=13,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=14,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=15,facing=east,powered=false": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_off",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=1,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=2,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=3,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=4,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=5,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=6,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=7,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=8,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=9,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=10,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=11,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=12,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=13,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=14,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=15,facing=down,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 180
+    },
+    "emit_power=1,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=2,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=3,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=4,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=5,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=6,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=7,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=8,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=9,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=10,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=11,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=12,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=13,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=14,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=15,facing=up,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on"
+    },
+    "emit_power=1,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=2,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=3,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=4,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=5,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=6,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=7,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=8,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=9,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=10,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=11,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=12,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=13,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=14,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=15,facing=north,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90
+    },
+    "emit_power=1,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=2,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=3,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=4,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=5,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=6,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=7,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=8,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=9,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=10,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=11,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=12,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=13,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=14,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=15,facing=south,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 180
+    },
+    "emit_power=1,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=2,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=3,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=4,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=5,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=6,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=7,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=8,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=9,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=10,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=11,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=12,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=13,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=14,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=15,facing=west,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 270
+    },
+    "emit_power=1,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=2,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=3,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=4,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=5,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=6,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=7,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=8,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=9,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=10,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=11,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=12,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=13,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=14,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    },
+    "emit_power=15,facing=east,powered=true": {
+      "model": "redstoneutils:block/redstone_emitter_inverted_on",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

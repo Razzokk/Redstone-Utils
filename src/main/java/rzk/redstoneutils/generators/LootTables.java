@@ -3,7 +3,7 @@ package rzk.redstoneutils.generators;
 import net.minecraft.data.DataGenerator;
 import rzk.redstoneutils.registry.ModBlocks;
 
-public class LootTables extends BaseLootTableProvider
+public final class LootTables extends BaseLootTableProvider
 {
     public LootTables(DataGenerator generator)
     {
@@ -15,5 +15,7 @@ public class LootTables extends BaseLootTableProvider
     {
         addSimpleDropTable(ModBlocks.analogLamp);
         addSimpleDropTable(ModBlocks.analogLampInverted);
+        addSimpleDropTable(ModBlocks.redstoneEmitter);
+        addSimpleDropTable(ModBlocks.redstoneEmitterInverted);
     }
 }

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "name": "redstone_emitter_inverted",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "redstoneutils:redstone_emitter_inverted"
+        }
+      ]
+    }
+  ]
+}

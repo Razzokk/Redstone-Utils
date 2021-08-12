@@ -6,7 +6,7 @@ import net.minecraft.data.RecipeProvider;
 
 import java.util.function.Consumer;
 
-public class Recipes extends RecipeProvider
+public final class Recipes extends RecipeProvider
 {
     public Recipes(DataGenerator generator)
     {

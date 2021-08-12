@@ -20,6 +20,9 @@ import java.nio.file.Path;
 import java.util.HashMap;
 import java.util.Map;
 
+/*
+ * Credit to McJty for the base structure of this class
+ */
 public abstract class BaseLootTableProvider extends LootTableProvider
 {
     private static final Logger LOGGER = LogManager.getLogger();

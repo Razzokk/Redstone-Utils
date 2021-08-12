@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_top",
+  "textures": {
+    "side": "redstoneutils:blocks/emitter_side_on",
+    "top": "redstoneutils:blocks/emitter_top_on"
+  }
+}

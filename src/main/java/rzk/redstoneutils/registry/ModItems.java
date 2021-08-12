@@ -5,6 +5,7 @@ import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.registries.IForgeRegistry;
 import rzk.redstoneutils.RedstoneUtils;
+import rzk.redstoneutils.block.ItemBlockRotator;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,11 +14,13 @@ public final class ModItems
 {
     private static final List<Item> ITEMS = new ArrayList<>();
 
+    public static Item rotator;
+
     private ModItems() {}
 
     private static void initItems()
     {
-
+        rotator = registerItem("rotator", new ItemBlockRotator());
     }
 
     public static Item registerItem(String name, Item item)

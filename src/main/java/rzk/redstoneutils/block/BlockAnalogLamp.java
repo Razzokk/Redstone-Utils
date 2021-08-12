@@ -9,7 +9,8 @@ import net.minecraft.state.StateContainer;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.IBlockReader;
 import net.minecraft.world.World;
-import rzk.redstoneutils.misc.Constants;
+import net.minecraftforge.common.util.Constants;
+import rzk.redstoneutils.misc.RUConstants;
 
 import javax.annotation.Nullable;
 
@@ -23,6 +24,7 @@ public class BlockAnalogLamp extends Block
     {
         super(Properties.of(Material.BUILDABLE_GLASS).strength(0.3F).sound(SoundType.GLASS).isValidSpawn((state, world, pos, type) -> true));
         this.inverted = inverted;
+        registerDefaultState(defaultBlockState().setValue(POWER, 0));
     }
 
     @Nullable
@@ -51,7 +53,7 @@ public class BlockAnalogLamp extends Block
             int power = world.getBestNeighborSignal(pos);
 
             if (power != state.getValue(POWER))
-                world.setBlockAndUpdate(pos, state.setValue(POWER, power));
+                world.setBlock(pos, state.setValue(POWER, power), Constants.BlockFlags.BLOCK_UPDATE);
         }
     }
 
@@ -59,7 +61,7 @@ public class BlockAnalogLamp extends Block
     public int getLightValue(BlockState state, IBlockReader world, BlockPos pos)
     {
         int power = state.getValue(POWER);
-        return inverted ? Constants.MAX_REDSTONE_POWER - power : power;
+        return inverted ? RUConstants.MAX_REDSTONE_POWER - power : power;
     }
 
     @Override

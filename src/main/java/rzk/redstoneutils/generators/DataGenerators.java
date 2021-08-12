@@ -8,7 +8,7 @@ import net.minecraftforge.fml.event.lifecycle.GatherDataEvent;
 import rzk.redstoneutils.RedstoneUtils;
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
-public class DataGenerators
+public final class DataGenerators
 {
     @SubscribeEvent
     public static void gatherData(GatherDataEvent event)
